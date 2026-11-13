@@ -8,3 +8,10 @@ plugins/
 ext/libavif/build/
 ext/libavif/ext/aom/build.libavif/
 ext/libavif/ext/libyuv/build/
+ext/libavif/build-ro/
+ext/libavif/ext/dav1d/build/
+qtbuild_*/Makefile
+qtbuild_*/*.o
+qtbuild_*/*.moc
+qtbuild_*/*.dylib
+qtbuild_*/.qmake.stash
